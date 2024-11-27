@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+
+p {
+    font-size: 25px;
+    font-family: "Gamja Flower", sans-serif;
+    padding-left: 130px;
+}
+
+hr {
+    width: 280px;
+    border: solid black px;
+    color: white;
+}
+
+.sidenav-container {
+    background-color: rgb(255, 255, 255);
+    width: 22vw;
+    height: 100vh;
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+}
